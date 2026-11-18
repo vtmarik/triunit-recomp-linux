@@ -1,3 +1,11 @@
+#Note from me
+
+Currently a WIP to change this from Windows-native to being able to compile on my Solus Plasma machine (and hopefully others as well)
+
+Ok, back to Main's spiel
+#
+
+
 <p align="center">
   <img src="docs/assets/brand/triunit-logo.webp" alt="TriUnit Recomp" width="640">
 </p>
